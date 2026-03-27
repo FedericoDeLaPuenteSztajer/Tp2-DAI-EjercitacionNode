@@ -1,0 +1,21 @@
+{
+  "name": "ejercitacion-tp02",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/FedericoDeLaPuenteSztajer/Tp2-DAI-EjercitacionNode#readme",
+  "bugs": {
+    "url": "https://github.com/FedericoDeLaPuenteSztajer/Tp2-DAI-EjercitacionNode/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FedericoDeLaPuenteSztajer/Tp2-DAI-EjercitacionNode.git"
+  },
+  "license": "ISC",
+  "author": "federico-de-la-puente-sztajer",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "Ej01": "node src/programs/Ej01.js"
+  }
+}
