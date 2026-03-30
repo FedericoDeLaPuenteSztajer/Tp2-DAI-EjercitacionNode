@@ -1,5 +1,10 @@
-function CrearAlumno(dniAux, usernameAux){
-    return {DNI: dniAux, username: usernameAux}
+class Alumno{
+
+    constructor(username, DNI){
+        this.username= username
+        this.DNI= DNI
+    }
+
 }
 
-export {CrearAlumno}
+export {Alumno}
