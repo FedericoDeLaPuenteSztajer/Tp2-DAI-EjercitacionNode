@@ -1,2 +1,4 @@
+let str1= "Hello"
+let str2= "world"
 
-let str1= prompt("Ingresa el string 1")
+console.log(`${str1} ${str2}`)
