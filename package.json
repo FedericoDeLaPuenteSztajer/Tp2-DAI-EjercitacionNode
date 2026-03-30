@@ -19,6 +19,7 @@
     "Ej01": "node src/programs/Ej01.js",
     "Ej02": "node src/programs/Ej02.js",
     "Ej03": "node src/programs/Ej03.js",
-    "Ej04": "node src/programs/Ej04.js"
+    "Ej04": "node src/programs/Ej04.js",
+    "Ej05": "node src/programs/Ej05.js"
   }
 }
